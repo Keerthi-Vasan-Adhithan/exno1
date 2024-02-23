@@ -22,9 +22,9 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
-```
-### Developed By: KEERTHI VASAN A
-### Register Number: 212222240048
+```py
+# Developed By: KEERTHI VASAN A
+# Register Number: 212222240048
 ```
 <table>
   <tr>
@@ -210,9 +210,7 @@ df.head()
   <td>
               
 #### OUTPUT:
-
-df.TOTAL.fillna(mn,inplace=True)
-df
+![Screenshot 2024-02-23 090324](https://github.com/MAHESWARAN2004/Expno1/assets/119478181/a0a06f86-f464-4d33-935a-a00fbd2d3ef4)
 </td>
 </tr>
 <tr>
@@ -259,4 +257,4 @@ df
 </table>
 
 # Result
-          <<include your Result here>>
+The data clearning has beeen done successfully.
