@@ -23,8 +23,8 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 ```
-### Developed By: LATHIKESHWARAN J
-### Register Number: 212222230072
+### Developed By: KEERTHI VASAN A
+### Register Number: 212222240048
 ```
 <table>
   <tr>
